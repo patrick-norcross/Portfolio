@@ -1,18 +1,18 @@
-#Portfolio
+# Portfolio
+---
 
-## Education
--B.S. in Data Science, Mathematics @ Merrimack College (December 2023)
+## Education & Work Experience
+-B.S. in Data Science, Mathematics -  Merrimack College
 
-## Work Experience 
-- Machine Learning Intern @ Roi Solutions (May '23 - Aug '23)
-- Various Research Projects @ Merrimack College (Oct '22 - Present)
-- Teaching Assistant @ Merrimack College (Aug '22 - Present)
+- Machine Learning Intern - Roi Solutions
+- Various Research Projects - Merrimack College
+- Teaching Assistant - Merrimack College
 
-#### [A more detailed look of my Education and Experience](https://resume.com)
+#### - [A more detailed look of my Education and Experience](https://resume.com)
 
 ## Projects
 ### My Work for Amnesty International
-
+ 
 ### Supervised Learning on Sleep Studies
 
 [xxxxxx](https://www.google.com "yyyyy")
