@@ -5,6 +5,7 @@
 <ul>
 <li>B.S. in Data Science, Mathematics -  Merrimack College</li>
 </ul>
+
 - Machine Learning Intern - Roi Solutions
 - Research Assisstant - Merrimack College
 - Teaching Assistant - Merrimack College
