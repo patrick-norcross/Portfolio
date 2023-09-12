@@ -2,7 +2,7 @@
 ---
 
 ## Education & Work Experience
-..*B.S. in Data Science, Mathematics -  Merrimack College
+*B.S. in Data Science, Mathematics -  Merrimack College
 
 - Machine Learning Intern - Roi Solutions
 - Various Research Projects - Merrimack College
