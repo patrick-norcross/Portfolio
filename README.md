@@ -6,12 +6,14 @@
 <li>B.S. in Data Science, Mathematics -  Merrimack College</li>
 </ul>
 
+
 <ul>
 <li>Machine Learning Intern - Roi Solutions</li>
 <li>Research Assisstant - Merrimack College</li>
 <li>Teaching Assistant - Merrimack College</li>
 </ul>
-#### [A more detailed look of my Education and Experience](https://resume.com)
+
+- [A more detailed look of my Education and Experience](https://resume.com)
 
 ## Projects
 ### My Work for Amnesty International
