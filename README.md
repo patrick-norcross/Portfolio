@@ -1,8 +1,7 @@
-# Data Science Portfolio - Patrick Norcross
+#Portfolio
 
 ## Education
 
-## Work Experience
 ### Machine Learning Intern @ Roi Solutions
 
 ## Projects
