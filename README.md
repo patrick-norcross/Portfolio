@@ -13,7 +13,7 @@
 <li>Teaching Assistant - Merrimack College</li>
 </ul>
 
-- [A more detailed look of my Education and Experience](https://resume.com)
+- [A more detailed look of my Education and Experience](https://resume.com "Resume")
 
 ## Projects
 ### My Work for Amnesty International
