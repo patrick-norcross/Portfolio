@@ -2,10 +2,11 @@
 ---
 
 ## Education & Work Experience
-   - B.S. in Data Science, Mathematics -  Merrimack College
-  
+<ul>
+<li>B.S. in Data Science, Mathematics -  Merrimack College</li>
+</ul>
 - Machine Learning Intern - Roi Solutions
-- Various Research Projects - Merrimack College
+- Research Assisstant - Merrimack College
 - Teaching Assistant - Merrimack College
 
 #### [A more detailed look of my Education and Experience](https://resume.com)
