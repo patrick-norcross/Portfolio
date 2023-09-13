@@ -13,7 +13,7 @@
 <li>Teaching Assistant - Merrimack College</li>
 </ul>
 
-- [A more detailed look of my Education and Experience](https://resume.com "Resume")
+- [A more detailed look of my Education and Experience](https://patrick-norcross-resume.tiiny.site/ "Resume")
 
 ## Projects
 ### My Work for Amnesty International
