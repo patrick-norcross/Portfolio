@@ -75,5 +75,5 @@ to visuals, new visual ideas, and automating the process from data recieved to v
 
 ## Connect with Me!
 
--[LinkedIn]("https://www.linkedin.com/in/patricknorcross/")
--[Email]("< a href="mailto:Patrick.norcross@comcast.net">Patrick Norcross< /a>")
+-[LinkedIn](https://www.linkedin.com/in/patricknorcross/)
+-[Email](< a href="mailto:Patrick.norcross@comcast.net">Patrick Norcross< /a>)
