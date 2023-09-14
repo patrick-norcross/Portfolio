@@ -51,7 +51,7 @@ years. Throughout the project I used various ensemble methods, tested with many 
 scores. I also worked with Voting Classifiers which took into account Tree, kNN, SVM, and Naive Bayes models with 
 optimized parameters using Grid Search.
 
-![Confusion matrix of the 2021 data as well as an accuracy score.](/assets/ATUS_1)
+![Confusion matrix of the 2021 data as well as an accuracy score.](/assets/ATUS_1.png)
 
 Used accuracy score to refrence results as well as looking at confusion matrices to understand the results
 visually and more in-depth.
