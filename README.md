@@ -18,6 +18,7 @@
 ---
 
 ## Projects
+
 ### My Work for Amnesty International
 Unfortunately, I was not able to hold on to the work I produced for ROI Solutions. However, I still wanted to take
 the oppurtunity to highlight the project in more detail that what is seen on my resume. As the Machine Learning
@@ -53,21 +54,22 @@ optimized parameters using Grid Search.
 
 [Link to the Code and Project](https://www.google.com)
 
-### Classifying written digits using Nueral Networks
+### Classifying Written Digits using Nueral Networks
 Using a large database of hand written digits, I performed data manipulation to get these images into a dataframe
-that was able to be used with Nueral Networks. Using various methods and iterations I was able to achieve results
-in the 90% range.
+that identified each pixel on a scale of 0-255 based on its place in a scale from white to black. From there, I used
+linear regression, multi-layer perceptrons, and nueral networks to build models to predict these digits correctly. 
 
 [Link to the Code and Project](https://www.google.com)
 
-### Swim Team
+### Visualizations for Merrimack College's Swim Team
 One of the research projects I had the oppurtunity to be a part of was working with the Swim and Diving team here 
 at Merrimack College. This was something that was worked on slowly throughout the year. The swimmers were tasked 
 with filling out a survey weekly. I took this data and had to perform heavy data cleaning and wrangling to be able
 to perform any type of analysis. A large portion of the time has been devouted to creating visualizations for the 
-swimmers to view after recieving data. There has been dive into model building but hopes of more objective data in
-the future has held us off on that for now. Current work involves constant updates to visuals, new visual ideas, and
-automating the process from data recieved to visuals produced.
+swimmers to view after recieving data. This has been made easy by using R Shiny to be able to select the respective 
+ID and their respective charts will then be brought up to view. There has been a dive into model building but hopes 
+of more objective data in the future has largely held us off on that for now. Current work involves constant updates
+to visuals, new visual ideas, and automating the process from data recieved to visuals produced.
 
 [Link to the Code and Project](https://www.google.com)
 
@@ -75,6 +77,5 @@ automating the process from data recieved to visuals produced.
 
 ## Connect with Me!
 
--LinkedIn
--Email
--Github
+-[LinkedIn]("https://www.linkedin.com/in/patricknorcross/")
+-[Email]("< a href="mailto:Patrick.norcross@comcast.net">Patrick Norcross< /a>")
