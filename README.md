@@ -56,7 +56,7 @@ optimized parameters using Grid Search.
 Used accuracy score to refrence results as well as looking at confusion matrices to understand the results
 visually and more in-depth.
 
-[Link to the Code and Project](https://www.google.com)
+[Link to the Code and Project](https://github.com/patrick-norcross/ATUS_supervised_learning)
 
 ### Classifying Written Digits using Nueral Networks
 
@@ -70,7 +70,7 @@ linear regression, multi-layer perceptrons, and nueral networks to build models 
 
 Accuracy was able to reach roughly 90% using the Multi-layer Perceptron Model. 
 
-[Link to the Code and Project](https://www.google.com)
+[Link to the Code and Project](https://github.com/patrick-norcross/Digit_Identification)
 
 ### Visualizations for Merrimack College's Swim Team
 One of the research projects I had the oppurtunity to be a part of was working with the Swim and Diving team here 
@@ -84,7 +84,7 @@ to visuals, new visual ideas, and automating the process from data recieved to v
 
 <img src="/assets/SWIM_1.png" width="500">
 
-[Link to the Code and Project](https://www.google.com)
+[Link to the Code and Project](https://github.com/patrick-norcross/Swim_team_visuals)
 
 ---
 
