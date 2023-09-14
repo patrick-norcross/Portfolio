@@ -20,9 +20,7 @@
 ## Projects
 
 ### My Work for Amnesty International
-Unfortunately, I was not able to hold on to the work I produced for ROI Solutions. However, I still wanted to take
-the oppurtunity to highlight the project in more detail that what is seen on my resume. As the Machine Learning
-Intern, I was tasked with improving upon the reinstatement model for ROI Solutions' client Amnesty International.
+Unfortunately, I was not able to hold on to the work I produced for ROI Solutions. However, I still wanted to takethe oppurtunity to highlight the project in more detail that what is seen on my resume. As the Machine Learning Intern, I was tasked with improving upon the reinstatement model for ROI Solutions' client Amnesty International.
 The reinstatement model pulls data from Amnesty's constituent database regarding last donation date, demographic data,
 donation amounts, total donations, and much more using a SQL script. The goal was to identify constiuents who had
 not donated in 24 months or longer and determine through machine learning models which constiuents were most likely
@@ -40,8 +38,8 @@ campaign coming in around Febuary of 2024.
 
 I also spent time working with python, creating a script that the team could use on a monthly basis when producing
 scores for models of various clients and model type. It was able to pull the data that needed scoring from an SFTP
-server, score the data in the script by using DataRobot's API, and then returned the results back to the server,
-as well as downloading the files needed for further analysis of the scores produced.
+server, score the data in the script by using DataRobot's API, and then return the results back to the server,
+as well as downloading the files needed locally for further analysis of the scores produced.
 
 ### Supervised Learning on Sleep Data
 The american time use survey measures the use of time spent doing various activites throughout a 24 hour period.
