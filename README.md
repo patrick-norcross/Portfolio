@@ -50,9 +50,9 @@ the newest 2021 data as the test set going into the project in hopes of being ab
 years. Throughout the project I used various ensemble methods, tested with many different parameters to get optimal
 scores. I also worked with Voting Classifiers which took into account Tree, kNN, SVM, and Naive Bayes models with 
 optimized parameters using Grid Search.
-
+<p>
 <img src="./assets/ATUS_1.png" width="250" />
-
+</p>
 Used accuracy score to refrence results as well as looking at confusion matrices to understand the results
 visually and more in-depth.
 
@@ -60,14 +60,15 @@ visually and more in-depth.
 
 ### Classifying Written Digits using Nueral Networks
 
+<p>
 <img src="./assets/NN_1.png" width="250" />
-
+</p>
 Using a large database of hand written digits, I performed data manipulation to get these images into a dataframe
 that identified each pixel on a scale of 0-255 based on its place in a scale from white to black. From there, I used
 linear regression, multi-layer perceptrons, and nueral networks to build models to predict these digits correctly. 
-
+<p>
 <img src="./assets/NN_2.png" width="250" />
-
+</p>
 Accuracy was able to reach roughly 90% using the Multi-layer Perceptron Model. 
 
 [Link to the Code and Project](https://github.com/patrick-norcross/Digit_Identification)
@@ -81,8 +82,9 @@ swimmers to view after recieving data. This has been made easy by using R Shiny 
 ID and their respective charts will then be brought up to view. There has been a dive into model building but hopes 
 of more objective data in the future has largely held us off on that for now. Current work involves constant updates
 to visuals, new visual ideas, and automating the process from data recieved to visuals produced.
-
+<p>
 <img src="./assets/SWIM_1.png" width="500" />
+</p>
 
 [Link to the Code and Project](https://github.com/patrick-norcross/Swim_team_visuals)
 
