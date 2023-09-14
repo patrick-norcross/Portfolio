@@ -82,7 +82,7 @@ ID and their respective charts will then be brought up to view. There has been a
 of more objective data in the future has largely held us off on that for now. Current work involves constant updates
 to visuals, new visual ideas, and automating the process from data recieved to visuals produced.
 
-<img src="/assets/SWIM_1.png" width="250">
+<img src="/assets/SWIM_1.png" width="500">
 
 [Link to the Code and Project](https://www.google.com)
 
