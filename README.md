@@ -75,7 +75,5 @@ to visuals, new visual ideas, and automating the process from data recieved to v
 ---
 
 ## Connect with Me!
-<ul></ul>
-<li>[LinkedIn](https://www.linkedin.com/in/patricknorcross/)</li>
-<li>[Email](< a href="mailto:Patrick.norcross@comcast.net?">< /a>)</li>
-</ul>
+<a href="https://www.linkedin.com/in/patricknorcross"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:patrick.norcross@comcast.net?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
