@@ -60,7 +60,7 @@ visually and more in-depth.
 
 ### Classifying Written Digits using Nueral Networks
 
-<img src="/assets/NN_2.png" width="250">
+<img src="/assets/NN_1.png" width="250">
 
 Using a large database of hand written digits, I performed data manipulation to get these images into a dataframe
 that identified each pixel on a scale of 0-255 based on its place in a scale from white to black. From there, I used
