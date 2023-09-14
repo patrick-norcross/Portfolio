@@ -20,7 +20,7 @@
 
 ### My Work for Amnesty International
 Unfortunately, I was not able to hold on to the work I produced for ROI Solutions. However, I still wanted to take
-the oppurtunity to highlight the project in more detail that what is seen on my resume. As the Machine Learning 
+the oppurtunity to highlight the project in more detail than what is seen on my resume. As the Machine Learning 
 Intern, I was tasked with improving upon the reinstatement model for ROI Solutions' client Amnesty International.
 The reinstatement model pulls data from Amnesty's constituent database regarding last donation date, demographic data,
 donation amounts, total donations, and much more using a SQL script. The goal was to identify constiuents who had
