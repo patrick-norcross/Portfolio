@@ -35,7 +35,7 @@ model was able to perform better I ran a test campaign which was withheld in the
 scores through the current model in place as well as the rebuilt model. Looking at results yielded about a 10%
 increase in the selection of constiuents who did respond to the mail campaign with a gift. Real World results of
 this rebuild have not been determined yet as it will be used for Amnesty's November Campaign with results of the
-campaign coming in around Febuary of 2024.
+campaign coming in Febuary of 2024.
 
 I also spent time working with python, creating a script that the team could use on a monthly basis when producing
 scores for models of various clients and model type. It was able to pull the data that needed scoring from an SFTP
