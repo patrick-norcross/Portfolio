@@ -6,7 +6,6 @@
 <li>B.S. in Data Science, Mathematics -  Merrimack College</li>
 </ul>
 
-
 <ul>
 <li>Machine Learning Intern - Roi Solutions</li>
 <li>Research Assisstant - Merrimack College</li>
@@ -20,7 +19,9 @@
 ## Projects
 
 ### My Work for Amnesty International
-Unfortunately, I was not able to hold on to the work I produced for ROI Solutions. However, I still wanted to takethe oppurtunity to highlight the project in more detail that what is seen on my resume. As the Machine Learning Intern, I was tasked with improving upon the reinstatement model for ROI Solutions' client Amnesty International.
+Unfortunately, I was not able to hold on to the work I produced for ROI Solutions. However, I still wanted to take
+the oppurtunity to highlight the project in more detail that what is seen on my resume. As the Machine Learning 
+Intern, I was tasked with improving upon the reinstatement model for ROI Solutions' client Amnesty International.
 The reinstatement model pulls data from Amnesty's constituent database regarding last donation date, demographic data,
 donation amounts, total donations, and much more using a SQL script. The goal was to identify constiuents who had
 not donated in 24 months or longer and determine through machine learning models which constiuents were most likely
@@ -74,6 +75,7 @@ to visuals, new visual ideas, and automating the process from data recieved to v
 ---
 
 ## Connect with Me!
-
--[LinkedIn](https://www.linkedin.com/in/patricknorcross/)
--[Email](< a href="mailto:Patrick.norcross@comcast.net">Patrick Norcross< /a>)
+<ul></ul>
+<li>[LinkedIn](https://www.linkedin.com/in/patricknorcross/)</li>
+<li>[Email](< a href="mailto:Patrick.norcross@comcast.net?">< /a>)</li>
+</ul>
