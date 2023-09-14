@@ -13,11 +13,35 @@
 <li>Teaching Assistant - Merrimack College</li>
 </ul>
 
-- [A more detailed look of my Education and Experience](https://patrick-norcross-resume.tiiny.site/ "Resume")
+- [Education and Experience in depth - Resume](https://patrick-norcross-resume.tiiny.site/ "Resume")
+  
+---
 
 ## Projects
 ### My Work for Amnesty International
- 
+Unfortunately, I was not able to hold on to the work I produced for ROI Solutions. However, I still wanted to take
+the oppurtunity to highlight the project in more detail that what is seen on my resume. As the Machine Learning
+Intern, I was tasked with improving upon the reinstatement model for ROI Solutions' client Amnesty International.
+The reinstatement model pulls data from Amnesty's constituent database regarding last donation date, demographic data,
+donation amounts, total donations, and much more using a SQL script. The goal was to identify constiuents who had
+not donated in 24 months or longer and determine through machine learning models which constiuents were most likely
+to respond to Amnesty's upcoming mail campaign. Some of the major changes to this rebuild was updating the date range
+from 2018-2019 and bringing it up to date by including 2018-2022. I also added new features into the SQL script to 
+add more information of each constiuent.
+ROI Solutions utilizes DataRobot, a third-party service used for building a large variety of machine learning models
+based on the file that is given. They rank the models based on a very large set of possible scoring techniques which
+is then intepretted by the user to make a final call on which model will perform best. To make sure this resulting
+model was able to perform better I ran a test campaign which was withheld in the original training set. I ran these
+scores through the current model in place as well as the rebuilt model. Looking at results yielded about a 10%
+increase in the selection of constiuents who did respond to the mail campaign with a gift. Real World results of
+this rebuild have not been determined yet as it will be used for Amnesty's November Campaign with results of the
+campaign coming in around Febuary of 2024.
+
+I also spent time working with python, creating a script that the team could use on a monthly basis when producing
+scores for models of various clients and model type. It was able to pull the data that needed scoring from an SFTP
+server, score the data in the script by using DataRobot's API, and then returned the results back to the server,
+as well as downloading the files needed for further analysis of the scores produced.
+
 ### Supervised Learning on Sleep Data
 The american time use survey measures the use of time spent doing various activites throughout a 24 hour period.
 My goal in this project was to create categories of sleep levels "Low, average, high" to then see if I can use 
@@ -25,14 +49,16 @@ the rest of the time use data to correctly categories these groups. I used 2018-
 the newest 2022 data as the test set going into the project in hopes of being able to use these models for future
 years. Throughout the project I used various ensemble methods, tested with many different parameters to get optimal
 scores. I also worked with Voting Classifiers which took into account Tree, kNN, SVM, and Naive Bayes models with 
-optimized parameters 
+optimized parameters using Grid Search.
 
 [Link to the Code and Project](https://www.google.com)
 
 ### Classifying written digits using Nueral Networks
-Use Neural Networks 
+Using a large database of hand written digits, I performed data manipulation to get these images into a dataframe
+that was able to be used with Nueral Networks. Using various methods and iterations I was able to achieve results
+in the 90% range.
 
-### NLP project
+[Link to the Code and Project](https://www.google.com)
 
 ### Swim Team
 One of the research projects I had the oppurtunity to be a part of was working with the Swim and Diving team here 
@@ -43,3 +69,12 @@ swimmers to view after recieving data. There has been dive into model building b
 the future has held us off on that for now. Current work involves constant updates to visuals, new visual ideas, and
 automating the process from data recieved to visuals produced.
 
+[Link to the Code and Project](https://www.google.com)
+
+---
+
+## Connect with Me!
+
+-LinkedIn
+-Email
+-Github
