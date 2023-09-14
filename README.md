@@ -84,7 +84,7 @@ to visuals, new visual ideas, and automating the process from data recieved to v
 
 ![](/assets/SWIM_1.png)
 
-<img src="/assets/SWIM_1" width="40">
+<img src="/assets/SWIM_1.png" width="40">
 
 [Link to the Code and Project](https://www.google.com)
 
