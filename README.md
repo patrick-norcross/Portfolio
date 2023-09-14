@@ -45,11 +45,16 @@ as well as downloading the files needed locally for further analysis of the scor
 ### Supervised Learning on Sleep Data
 The american time use survey measures the use of time spent doing various activites throughout a 24 hour period.
 My goal in this project was to create categories of sleep levels "Low, average, high" to then see if I can use 
-the rest of the time use data to correctly categories these groups. I used 2018-29 data as a training set and used
-the newest 2022 data as the test set going into the project in hopes of being able to use these models for future
+the rest of the time use data to correctly categories these groups. I used 2018 data as a training set and used
+the newest 2021 data as the test set going into the project in hopes of being able to use these models for future
 years. Throughout the project I used various ensemble methods, tested with many different parameters to get optimal
 scores. I also worked with Voting Classifiers which took into account Tree, kNN, SVM, and Naive Bayes models with 
 optimized parameters using Grid Search.
+
+![Confusion matrix of the 2021 data as well as an accuracy score.](/assets/ATUS_1)
+
+Used accuracy score to refrence results as well as looking at confusion matrices to understand the results
+visually and more in-depth.
 
 [Link to the Code and Project](https://www.google.com)
 
