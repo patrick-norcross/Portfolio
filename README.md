@@ -9,7 +9,7 @@
 
 #### Professional Experience
 <ul>
-<li>Machine Learning Intern - Roi Solutions</li>
+<li>Machine Learning Intern - ROI Solutions</li>
 <li>Research Assisstant - Merrimack College</li>
 <li>Teaching Assistant - Merrimack College</li>
 </ul>
