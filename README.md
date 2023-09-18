@@ -1,33 +1,34 @@
 # Portfolio
 ---
 
-## Education & Work Experience
+## Education & Profressional Experience
+#### Education
 <ul>
 <li>B.S. in Data Science, Mathematics -  Merrimack College</li>
 </ul>
 
+#### Professional Experience
 <ul>
 <li>Machine Learning Intern - Roi Solutions</li>
 <li>Research Assisstant - Merrimack College</li>
 <li>Teaching Assistant - Merrimack College</li>
 </ul>
 
-- [Education and Experience in depth - Resume](https://patrick-norcross-resume.tiiny.site/ "Resume")
+#### Resume
+- [Education and Experience in depth](https://patrick-norcross-resume.tiiny.site/ "Resume")
   
 ---
 
 ## Projects
 
-### My Work for Amnesty International
-Unfortunately, I was not able to hold on to the work I produced for ROI Solutions. However, I still wanted to take
-the oppurtunity to highlight the project in more detail than what is seen on my resume. As the Machine Learning 
-Intern, I was tasked with improving upon the reinstatement model for ROI Solutions' client Amnesty International.
-The reinstatement model pulls data from Amnesty's constituent database regarding last donation date, demographic data,
-donation amounts, total donations, and much more using a SQL script. The goal was to identify constiuents who had
-not donated in 24 months or longer and determine through machine learning models which constiuents were most likely
-to respond to Amnesty's upcoming mail campaign. Some of the major changes to this rebuild was updating the date range
-from 2018-2019 and bringing it up to date by including 2018-2022. I also added new features into the SQL script to 
-add more information of each constiuent.
+### My Work at Roi Solutions
+As the Machine Learning Intern, I was tasked with improving upon the reinstatement model for ROI Solutions' client 
+Amnesty International. The reinstatement model pulls data from Amnesty's constituent database regarding last donation 
+date, demographic data, donation amounts, total donations, and much more using a SQL script. The goal was to identify 
+constiuents who had not donated in 24 months or longer and determine through machine learning models which constiuents 
+were most likely to respond to Amnesty's upcoming mail campaign. Some of the major changes to this rebuild was updating 
+the date range from 2018-2019 and bringing it up to date by including 2018-2022. I also added new features into the SQL 
+script to add more information of each constiuent.
 ROI Solutions utilizes DataRobot, a third-party service used for building a large variety of machine learning models
 based on the file that is given. They rank the models based on a very large set of possible scoring techniques which
 is then intepretted by the user to make a final call on which model will perform best. To make sure this resulting
@@ -91,6 +92,6 @@ to visuals, new visual ideas, and automating the process from data recieved to v
 ---
 
 ## Connect
-<a href="https://www.linkedin.com/in/patricknorcross"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/patricknorcross"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <a href="mailto:patrick.norcross@comcast.net?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
