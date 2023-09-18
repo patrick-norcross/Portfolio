@@ -15,8 +15,7 @@
 </ul>
 
 #### [Resume](https://patrick-norcross-resume.tiiny.site/ "Resume")
-- [Education and Experience in depth](https://patrick-norcross-resume.tiiny.site/ "Resume")
-  
+
 ---
 
 ## Projects
