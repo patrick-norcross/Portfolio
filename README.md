@@ -1,7 +1,7 @@
 # Portfolio
 ---
 
-## Education & Profressional Experience
+## Education & Professional Experience
 #### Education
 <ul>
 <li>B.S. in Data Science, Mathematics -  Merrimack College</li>
@@ -14,14 +14,14 @@
 <li>Teaching Assistant - Merrimack College</li>
 </ul>
 
-#### Resume
+#### [Resume](https://patrick-norcross-resume.tiiny.site/ "Resume")
 - [Education and Experience in depth](https://patrick-norcross-resume.tiiny.site/ "Resume")
   
 ---
 
 ## Projects
 
-### My Work at Roi Solutions
+### Machine Learning based Reinstatement Model for ROI Solutions
 As the Machine Learning Intern, I was tasked with improving upon the reinstatement model for ROI Solutions' client 
 Amnesty International. The reinstatement model pulls data from Amnesty's constituent database regarding last donation 
 date, demographic data, donation amounts, total donations, and much more using a SQL script. The goal was to identify 
@@ -59,14 +59,14 @@ visually and more in-depth.
 
 [Link to the Code and Project](https://github.com/patrick-norcross/ATUS_supervised_learning)
 
-### Classifying Written Digits using Nueral Networks
+### Classifying Written Digits using Neural Networks
 
 <p>
 <img src="./assets/NN_1.png" width="250" />
 </p>
 Using a large database of hand written digits, I performed data manipulation to get these images into a dataframe
 that identified each pixel on a scale of 0-255 based on its place in a scale from white to black. From there, I used
-linear regression, multi-layer perceptrons, and nueral networks to build models to predict these digits correctly. 
+linear regression, multi-layer perceptrons, and neural networks to build models to predict these digits correctly. 
 <p>
 <img src="./assets/NN_2.png" width="250" />
 </p>
@@ -78,7 +78,7 @@ Accuracy was able to reach roughly 90% using the Multi-layer Perceptron Model.
 One of the research projects I had the oppurtunity to be a part of was working with the Swim and Diving team here 
 at Merrimack College. This was something that was worked on slowly throughout the year. The swimmers were tasked 
 with filling out a survey weekly. I took this data and had to perform heavy data cleaning and wrangling to be able
-to perform any type of analysis. A large portion of the time has been devouted to creating visualizations for the 
+to perform any type of analysis. A large portion of the time has been devoted to creating visualizations for the 
 swimmers to view after recieving data. This has been made easy by using R Shiny to be able to select the respective 
 ID and their respective charts will then be brought up to view. There has been a dive into model building but hopes 
 of more objective data in the future has largely held us off on that for now. Current work involves constant updates
