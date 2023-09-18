@@ -44,8 +44,8 @@ server, score the data in the script by using DataRobot's API, and then return t
 as well as downloading the files needed locally for further analysis of the scores produced.
 
 ### Supervised Learning on Sleep Data
-The american time use survey measures the use of time spent doing various activites throughout a 24 hour period.
-My goal in this project was to create categories of sleep levels "Low, average, high" to then see if I can use 
+The American Time Use Survey (ATUS) measures the use of time spent doing various activites throughout a 24 hour period.
+My goal in this project was to create categories of sleep levels "Low, normal, high" to then see if I can use 
 the rest of the time use data to correctly categories these groups. I used 2018 data as a training set and used
 the newest 2021 data as the test set going into the project in hopes of being able to use these models for future
 years. Throughout the project I used various ensemble methods, tested with many different parameters to get optimal
