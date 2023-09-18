@@ -4,7 +4,7 @@
 ## Education & Professional Experience
 #### Education
 <ul>
-<li>B.S. in Data Science, Mathematics -  Merrimack College</li>
+<li>B.S. in Data Science, Mathematics -  Merrimack College (Expected: Dec 2023)</li>
 </ul>
 
 #### Professional Experience
@@ -20,7 +20,7 @@
 
 ## Projects
 
-### Machine Learning based Reinstatement Model for ROI Solutions
+### Machine Learning Based Reinstatement Model for ROI Solutions
 As the Machine Learning Intern, I was tasked with improving upon the reinstatement model for ROI Solutions' client 
 Amnesty International. The reinstatement model pulls data from Amnesty's constituent database regarding last donation 
 date, demographic data, donation amounts, total donations, and much more using a SQL script. The goal was to identify 
@@ -42,7 +42,7 @@ scores for models of various clients and model type. It was able to pull the dat
 server, score the data in the script by using DataRobot's API, and then return the results back to the server,
 as well as downloading the files needed locally for further analysis of the scores produced.
 
-### Supervised Learning on Sleep Data
+### Using Supervised Learning Techniques on Sleep Data
 The American Time Use Survey (ATUS) measures the use of time spent doing various activites throughout a 24 hour period.
 My goal in this project was to create categories of sleep levels "Low, normal, high" to then see if I can use 
 the rest of the time use data to correctly categories these groups. I used 2018 data as a training set and used
