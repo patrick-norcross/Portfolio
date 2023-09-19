@@ -24,7 +24,7 @@
 ### Machine Learning Based Reinstatement Model for ROI Solutions
 
 <p>
-<img src="./assets/MiLo.svg" width="250" />
+<img src="./assets/MiLo.svg" width="200" />
 </p>
 
 As the Machine Learning Intern, I was tasked with improving upon the reinstatement model for ROI Solutions' client 
@@ -36,15 +36,16 @@ the date range from 2018-2019 and bringing it up to date by including 2018-2022.
 script to add more information of each constiuent.
 ROI Solutions utilizes DataRobot, a third-party service used for building a large variety of machine learning models
 based on the file that is given. They rank the models based on a very large set of possible scoring techniques which
-is then intepretted by the user to make a final call on which model will perform best. To make sure this resulting
+is then intepretted by the user to make a final decision on which model will perform best. To make sure this resulting
 model was able to perform better I ran a test campaign which was withheld in the original training set. I ran these
 scores through the current model in place as well as the rebuilt model. Looking at results yielded about a 10%
 increase in the selection of constiuents who did respond to the mail campaign with a gift. Real World results of
 this rebuild have not been determined yet as it will be used for Amnesty's November Campaign with results of the
-campaign coming in Febuary of 2024.
+campaign returned in Febuary of 2024.
 
-I also spent time working with python, creating a script that the team could use on a monthly basis when producing
-scores for models of various clients and model type. It was able to pull the data that needed scoring from an SFTP
+I also spent time working with python, specifically a library called paramiko, which allows files to be directly pulled
+from SFTP Servers into the script. I used this to create a script that the team could use on a monthly basis when producing
+scores for various models and clients. It was able to pull the data that needed scoring from an SFTP
 server, score the data in the script by using DataRobot's API, and then return the results back to the server,
 as well as downloading the files needed locally for further analysis of the scores produced.
 
