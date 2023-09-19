@@ -22,6 +22,11 @@
 ## Projects
 
 ### Machine Learning Based Reinstatement Model for ROI Solutions
+
+<p>
+<img src="./assets/MiLo.svg" width="250" />
+</p>
+
 As the Machine Learning Intern, I was tasked with improving upon the reinstatement model for ROI Solutions' client 
 Amnesty International. The reinstatement model pulls data from Amnesty's constituent database regarding last donation 
 date, demographic data, donation amounts, total donations, and much more using a SQL script. The goal was to identify 
