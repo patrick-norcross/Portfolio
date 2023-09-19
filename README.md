@@ -5,7 +5,7 @@
 #### Education
 <ul>
 <li>B.S. in Data Science, Mathematics -  Merrimack College<br />
-(Expected: Dec 2023)</li>
+(Expected: December 2023)</li>
 </ul>
 
 #### Professional Experience
