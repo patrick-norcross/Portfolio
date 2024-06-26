@@ -6,8 +6,9 @@
 <ul>
 <li>B.S. in Data Science, Mathematics -  Merrimack College<br />
 May 2024</li>
-<li>M.S. in Computer Science, Specialization: Machine Learning -  Georgia Institute of Technology<br />
-December 2026</li>
+<li>M.S. in Computer Science -  Georgia Institute of Technology<br />
+Specialization: Machine Learning<br />
+December 2026 </li>
 </ul>
 
 #### Professional Experience
