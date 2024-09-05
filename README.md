@@ -19,7 +19,7 @@ December 2026 </li>
 <li>Teaching Assistant - Merrimack College</li>
 </ul>
 
-#### [Resume](https://patrick-norcross-resume.tiiny.site/ "Resume")
+#### [Resume](https://patricknorcrossresume.tiiny.site/ "Resume")
 
 ---
 
