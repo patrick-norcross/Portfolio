@@ -1,6 +1,6 @@
 title: Patrick Norcross
 logo: /assets/IMG_0046-modified.png
-description: False
-show_downloads: False
-show_maintained_by: False
+description: false
+show_downloads: false
+show_maintained_by: false
 theme: jekyll-theme-minimal
